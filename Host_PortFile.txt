@@ -1,0 +1,3 @@
+google.com 443
+amazon.in 443
+flipkart.com 443
